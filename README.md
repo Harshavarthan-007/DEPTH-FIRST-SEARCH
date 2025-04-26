@@ -154,6 +154,7 @@ G F <BR>
 ['0', '1', '2', '3', '4']
 
 ##OUTPUT
+
 ![image](https://github.com/user-attachments/assets/f75792c6-dcb6-4a7c-bab5-8e2f3dd0f99a)
 
 <hr>
